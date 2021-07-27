@@ -7,7 +7,6 @@
 library(tidyverse)
 library(quanteda)
 library("tabulizer")
-library(tidytext)
 library(lubridate)
 
 
